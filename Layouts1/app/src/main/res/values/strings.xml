@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Layouts1</string>
+    <string name="instructions_text">A computer instruction is an order given to a computer processor by a computer program. At the lowest level, each instruction is a sequence of 0s and 1s that describes a physical operation the computer is to perform. Computer instructions typically have three fields. These include an operation code, or opcode, field that identifies the operation to be performed, such as add data in memory to a specific register. They also have an address field, showing where registers and memory are located, and a mode field, showing how the registers and memory will perform. Instructions vary in length. They can be a few bits long or many bytes. A very long instruction word (VLIW) is a processing architecture where the instructions are processed in parallel. VLIW is mostly used in high-performance, embedded applications. Reduced instruction set computer, or RISC, microprocessors are designed to perform a small number of computer instruction types, often of fixed lengths.</string>
+    <string name="save_button">Save</string>
+    <string name="date_hint">Date</string>
+    <string name="duration_hint">Duration</string>
+    <string name="distance_hint">Distance</string>
+    <string name="sport_hint">Your sport</string>
+    <string name="what_sport_text">What sport did you do:</string>
+    <string name="change_user_button">Change user</string>
+    <string name="user_hint">Other user</string>
+    <string name="change_user_text">Change your current user</string>
+    <string name="name_text">Emil</string>
+    <string name="app_text">Sport Recorder</string>
+</resources>
